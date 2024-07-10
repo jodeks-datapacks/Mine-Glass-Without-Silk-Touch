@@ -1,0 +1,79 @@
+{
+  "display": {
+      "icon": {
+          "id": "minecraft:glass"
+      },
+      "title": "Mine Glass Without Silk Touch                                                                                                                  ",
+      "description": [
+        "",
+        {
+            "text": "Mine glass with any tool or your hand!\n",
+            "color": "white"
+        },
+        {
+            "text": "\n",
+            "color": "yellow"
+        },
+        {
+            "text": "/trigger",
+            "color": "yellow"
+        },
+        {
+            "text": " help.mineglasswithoutsilktouch\n",
+            "color": "yellow"
+        },
+        {
+            "text": "for help\n",
+            "color": "white"
+        },
+        {
+            "text": "\n",
+            "color": "green"
+        },
+        {
+            "text": "Datapack version: ",
+            "color": "dark_green"
+        },
+        {
+            "text": "v.1.1.0",
+            "color": "green"
+        },
+        {
+            "text": "\n",
+            "color": "green"
+        },
+        {
+            "text": "Game version: ",
+            "color": "dark_green"
+        },
+        {
+            "text": "1.21",
+            "color": "green"
+        },
+        {
+            "text": "\n",
+            "color": "green"
+        },
+        {
+            "text": "\n",
+            "color": "green"
+        },
+        {
+            "text": "modrinth.com/datapack/mine-glass-without-silk-touch",
+            "color": "dark_purple"
+        }
+    ],
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false
+  },
+  "parent": "jodek:crafting",
+  "criteria": {
+      "tick": {
+          "trigger": "minecraft:tick"
+      }
+  }
+}
+    
+  
+  
