@@ -1,0 +1,2 @@
+data modify storage mine_glass_without_silk_touch:image data.current.pixel_color set from storage mine_glass_without_silk_touch:image data.background_color
+function mine_glass_without_silk_touch:image/process/build_pixel with storage mine_glass_without_silk_touch:image data.current

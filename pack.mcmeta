@@ -1,0 +1,58 @@
+{
+  "pack": {
+    "min_format": [80, 0],
+    "max_format": [999, 0],
+
+    "pack_format": 80,
+    "supported_formats": [80, 999],
+    "description": [
+      {
+        "text": "\"Mine Glass Without Silk Touch\" (mine_glass_without_silk_touch)"
+      },
+      "\n",
+      {
+        "translate": "mine_glass_without_silk_touch.description",
+        "fallback": "Mine glass with any tool or your hand!",
+        "color": "#aaaaaa"
+      },
+      "\n\n",
+      {
+        "translate": "jodek.version",
+        "fallback": "Version"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "1.1.3",
+        "color": "#55ff55"
+      },
+      {
+        "text": " "
+      },
+      {
+        "translate": "jodek.for_minecraft",
+        "fallback": "for Minecraft"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "1.21.6+",
+        "color": "#55ff55"
+      },
+      "\n",
+      {
+        "translate": "jodek.by",
+        "fallback": "by"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Jodek",
+        "color": "#ffff55"
+      }
+    ]
+  }
+}

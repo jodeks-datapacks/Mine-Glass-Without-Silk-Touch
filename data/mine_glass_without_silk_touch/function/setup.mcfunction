@@ -1,0 +1,7 @@
+scoreboard objectives add jodek.config dummy
+execute unless score &mine_glass_without_silk_touch_load_message jodek.config = &mine_glass_without_silk_touch_load_message jodek.config run scoreboard players set &mine_glass_without_silk_touch_load_message jodek.config 1
+execute unless score &mine_glass_without_silk_touch_advancements jodek.config = &mine_glass_without_silk_touch_advancements jodek.config run scoreboard players set &mine_glass_without_silk_touch_advancements jodek.config 1
+
+scoreboard objectives add mine_glass_without_silk_touch.image dummy
+
+function mine_glass_without_silk_touch:config/image

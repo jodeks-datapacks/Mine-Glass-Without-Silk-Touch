@@ -1,0 +1,3 @@
+data modify storage mine_glass_without_silk_touch:image data.tellraw append \
+  from storage mine_glass_without_silk_touch:image data.pixel_character.line_break
+
