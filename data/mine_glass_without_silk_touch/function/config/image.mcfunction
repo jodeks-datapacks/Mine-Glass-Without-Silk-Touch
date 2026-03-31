@@ -17,7 +17,6 @@ function mine_glass_without_silk_touch:image/set_image_data {\
     {translate: "mine_glass_without_silk_touch.description", fallback: "Mine glass with any tool or your hand!"},\
     "",\
     [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.1.3", color: "#54fc54"}],\
-    [{translate: "jodek.game_version", fallback: "Game version: ", color: "#00a800"}, {text: "1.21.6+", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/mine-glass-without-silk-touch", color: "#a800a8"},\
