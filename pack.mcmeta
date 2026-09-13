@@ -9,12 +9,6 @@
       {
         "text": "\"Mine Glass Without Silk Touch\" (mine_glass_without_silk_touch)"
       },
-      "\n",
-      {
-        "translate": "mine_glass_without_silk_touch.description",
-        "fallback": "Mine glass with any tool or your hand!",
-        "color": "#aaaaaa"
-      },
       "\n\n",
       {
         "translate": "jodek.version",
@@ -24,7 +18,7 @@
         "text": " "
       },
       {
-        "text": "1.1.4",
+        "text": "1.2.0",
         "color": "#55ff55"
       },
       "\n",
@@ -38,15 +32,6 @@
       {
         "text": "Jodek",
         "color": "#ffff55"
-      }
-    ]
-  },
-  "overlays": {
-    "entries": [
-      {
-        "directory": "overlay-107.1",
-        "min_format": 107,
-        "max_format": 999
       }
     ]
   }

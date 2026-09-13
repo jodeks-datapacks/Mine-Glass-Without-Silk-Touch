@@ -1,1 +1,0 @@
-function mine_glass_without_silk_touch:image/process/build_pixel with storage mine_glass_without_silk_touch:image data.current
