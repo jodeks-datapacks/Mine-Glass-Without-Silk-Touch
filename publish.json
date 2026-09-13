@@ -5,7 +5,7 @@
   "curseforge_slug": "mine-glass-without-silk-touch",
   "loaders": ["datapack"],
   "game_versions": [
-    ">=1.21.6"
+    ">=26.3"
   ],
   "version_type": "release",
   "dependencies": {
